@@ -1,8 +1,7 @@
 {
   "codeOwners": [
-    "0x5c00a921ab02dde85b03afca281d6e4791366244",
-    "0x4316a09e2dad2b65756f3b1950ea27346e50022d"
+    "0x68df5dd992f4f06871bfbf08354f21ed58a182f2",
+    "0x1e97790d13b97220d0741063f8c9a99c0cccddf5"
   ],
-  "quorum": 1,
-  "projectName": "waddafalls"
+  "quorum": 1
 }
